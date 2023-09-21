@@ -2,7 +2,7 @@
 React Todo App is built on React. It has a intuitive and friendly user interface that helps you manage tasks efficiently.
 
 # Features
-- <strong>Intuitive Task Creation</strong>: Easily add and organize tasks with a clean and user-friendly interface.
+- <strong>Intuitive Task Creation</strong>: Easily add and organise tasks with a clean and user-friendly interface.
 - <strong>Real-time Updates</strong>: Instantly see changes and updates without refreshing the page.
 - <strong>Task Completion</strong>: Mark tasks as complete and track your progress.
 - <strong>Task Editing</strong>: Modify task details on the fly, adapting to your evolving needs.
