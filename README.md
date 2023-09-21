@@ -19,4 +19,4 @@ React Todo App is built on React and uses RapidAPI. It has a intuitive and frien
 - Rapid API
 
 # Demo
-A live demo of the React Products Catalog App is available at [DEMO](https://kbekher.github.io/react-todo-app/) .
+A live demo of the React Todo App is available at [DEMO](https://kbekher.github.io/react-todo-app/) .
