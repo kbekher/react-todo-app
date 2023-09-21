@@ -1,5 +1,5 @@
 # React Todo App with API ✅
-React Todo App is built on React and uses RapidAPI. It has a intuitive and friendly user interface that helps you manage tasks efficiently.
+React Todo App is built on React. It has a intuitive and friendly user interface that helps you manage tasks efficiently.
 
 # Features
 - <strong>Intuitive Task Creation</strong>: Easily add and organize tasks with a clean and user-friendly interface.
@@ -12,11 +12,11 @@ React Todo App is built on React and uses RapidAPI. It has a intuitive and frien
 # Technologies & Tools Used
 - React
 - Typescript
-- HTML
-- SCSS
 - JavaScript
-- VS Code
-- Rapid API
+- Fetch, REST API
+- SCSS
+- Bulma
+
 
 # Demo
 A live demo of the React Todo App is available at [DEMO](https://kbekher.github.io/react-todo-app/) .
