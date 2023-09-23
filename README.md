@@ -20,3 +20,6 @@ React Todo App is built on React. It has a intuitive and friendly user interface
 
 # Demo
 A live demo of the React Todo App is available at [DEMO](https://kbekher.github.io/react-todo-app/) .
+
+# Preview
+<img align="center" alt="Todo App preview" width="1000px" src="https://github.com/kbekher/react-todo-app/blob/master/preview.png" />
