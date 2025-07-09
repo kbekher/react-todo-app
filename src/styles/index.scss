@@ -7,9 +7,14 @@ iframe {
 }
 
 body {
-  min-width: 230px;
-  max-width: 550px;
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  height: 100%;
+  background-image: url('https://images.unsplash.com/photo-1491156855053-9cdff72c7f85?q=80&w=3028&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .notification {

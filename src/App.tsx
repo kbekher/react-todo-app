@@ -167,7 +167,7 @@ export const App: React.FC = () => {
 
   return (
     <div className="todoapp">
-      <h1 className="todoapp__title">todos</h1>
+      <h1 className="todoapp__title">Our Royal Tasks</h1>
 
       <div className="todoapp__content">
         <header className="todoapp__header">
@@ -184,7 +184,7 @@ export const App: React.FC = () => {
               ref={inputRef}
               type="text"
               className="todoapp__new-todo"
-              placeholder="What needs to be done?"
+              placeholder="What needs to be done in UK?"
               value={newTodoTitle}
               onChange={handleTitleChange}
               disabled={tempTodo !== null}
